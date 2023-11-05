@@ -1,5 +1,8 @@
 @Jacek-Kapral @LukasZlocki @PZ-wsb
 
-theme: jekyll-theme-minimal
+
 title: Chmurower team home page
+logo: assets/img/logo.png
 description: Check often for more information on bicycle related software!
+show_downloads: true
+theme: jekyll-theme-minimal
