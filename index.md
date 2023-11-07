@@ -2,6 +2,9 @@
 layout: default
 ---
 
+## Welcome to Chmurower webpage!
+### You can learn about or mission here.
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
