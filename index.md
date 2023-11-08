@@ -3,7 +3,12 @@ layout: default
 ---
 
 ## Welcome to Chmurower webpage!
-### You can learn about or mission here.
+_You can learn about or mission here!_
+
+* * *
+
+Chmurower is a crew of IT students who met on [WSB Merito University]()
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
