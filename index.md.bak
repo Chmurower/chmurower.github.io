@@ -39,14 +39,23 @@ application called "Bike Rental".
 App is designed to be deployed on private as well as public cloud,
 with ~~all~~ some of the necessary scripts needed for seamless
 integration.
+
 (at this moment, implementation is ready for private cloud
  and for Azure App Service)
 
 **How?**
 
 Since before starting the project we've already knew some
-technologies that could easily serve as a
-our project will be focused on building an 
+technologies that could serve as tools for this project development,
+we've decided to use ASP.NET Core backend with natural choice of Blazor
+as frontend. Database is handled by MySQL.
+Initially developed as an app running on localhost by [Lukas](https://github.com/LukasZlocki)
+with experience in C# (hence the ASP.NET and Blazor choice), it was,
+as soon as possible, contenerized and set up to be run with Docker by
+[Jacek](https://github.com/Jacek-Kapral) with the idea of possibility 
+of seamless and easy deployment in private cloud or bare metal server.
+Finally, [Pawel](https://github.com/PZ-wsb) worked on the integration
+with Azure App Service, and is still working on 
 
 
 
