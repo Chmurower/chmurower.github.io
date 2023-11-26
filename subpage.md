@@ -11,12 +11,10 @@ layout: default
 
 ## People involved:
 
-Jacek Cierkosz 
-
-[LinkedIn](https://www.linkedin.com/in/jacek-cierkosz-6210561a1/) [Github](https://github.com/Jacek-Kapral) 
-Paweł Zięba
-
-Łukasz Złocki
 
 
-<a href="https://github.com">![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)</a>
+| Jacek Cierkosz | Paweł Zięba    | Łukasz Złocki  |
+|:---------------|:---------------|:---------------|
+| <a href="https://www.linkedin.com/in/jacek-cierkosz-6210561a1/">![LinkedIn](./assets/img/linkedin.png)</a> <a href="https://github.com/Jacek-Kapral">![Github](./assets/img/github.png)</a> | | <a href="https://www.linkedin.com/in/pawel-zieba-01/">![LinkedIn](./assets/img/linkedin.png)</a> <a href="https://github.com/PZ-wsb">![Github](./assets/img/github.png)</a> | <a href="https://www.linkedin.com/in/lukaszzlocki/">![LinkedIn](./assets/img/linkedin.png)</a> <a href="https://github.com/LukasZlocki">![Github](./assets/img/github.png)</a> | 
+
+
