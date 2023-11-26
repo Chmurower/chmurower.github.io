@@ -65,5 +65,5 @@ in cloud, with the idea of IaC in mind.
 
 
 
-[Link to another page](./another-page.html).
+[Technologies used and people involved](./subpage.html).
 
