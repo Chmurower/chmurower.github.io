@@ -59,7 +59,8 @@ with Azure App Service, and is still working, focused on AWS and GCP
 integration, with different public cloud environments on the back seat,
 waiting for their turns.
 
-
+Final step is to use Terraform for configuration of host environment
+in cloud, with the idea of IaC in mind.
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.

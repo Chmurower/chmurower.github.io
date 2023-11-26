@@ -55,7 +55,9 @@ as soon as possible, contenerized and set up to be run with Docker by
 [Jacek](https://github.com/Jacek-Kapral) with the idea of possibility 
 of seamless and easy deployment in private cloud or bare metal server.
 Finally, [Pawel](https://github.com/PZ-wsb) worked on the integration
-with Azure App Service, and is still working on 
+with Azure App Service, and is still working, focused on AWS and GCP
+integration, with different public cloud environments on the back seat,
+waiting for their turns.
 
 
 
