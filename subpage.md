@@ -8,6 +8,8 @@ layout: default
 
 ![Blazor](./assets/img/blazor.png)
 
+![MySQL](./assets/img/mysql.png)
+
 ![Docker](./assets/img/docker.png)
 
 ![Azure](./assets/img/azure.png)
