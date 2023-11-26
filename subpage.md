@@ -46,6 +46,7 @@ layout: default
 
 
 
-[Navigate back to main page](https://chmurower.github.io)
+
 </div>
 
+[Navigate back to main page](https://chmurower.github.io)
